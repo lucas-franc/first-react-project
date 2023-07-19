@@ -51,12 +51,10 @@ Contributions and suggestions are welcome! If you have any ideas for improvement
 
 ## Resources
 
-Here are some helpful resources for learning React, Vite, and API integration:
+Here are some helpful resources for learning React, Vite:
 
 - [Official React Documentation](https://reactjs.org/docs/getting-started.html)
 - [Vite Documentation](https://vitejs.dev/guide/)
-- [Axios - Promise-based HTTP client for JavaScript](https://axios-http.com/)
-- [RESTful API Design - Best Practices](https://restfulapi.net/)
 
 ## License
 
