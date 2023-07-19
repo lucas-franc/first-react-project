@@ -1,7 +1,7 @@
 # First React Project with API Integration
 
-![React version](https://img.shields.io/badge/React-v17.0.2-blue?logo=react)
-![Vite version](https://img.shields.io/badge/Vite-v2.5.7-blue?logo=vite)
+![React version](https://img.shields.io/badge/React-v18.2.0-blue?logo=react)
+![Vite version](https://img.shields.io/badge/Vite-v4.4.0-blue?logo=vite)
 
 ## Description
 
